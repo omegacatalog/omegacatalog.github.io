@@ -4,7 +4,7 @@
 
 Omega Centauri (&omega; Cen, NGC 5139)	is the most massive globular cluster of	the Milky Way and is believed to be the stripped nucleus of an accreted dwarf galaxy. This makes it a unique laboratory to study both a witness of the merger history of the Milky Way	and a nearby low-mass galactic nucleus.
 
-In the oMEGACat	project, led by	Nadine Neumayer	(MPIA) and Anil	Seth (Univ. of Utah), we aim to disentangle its dynamics and its formation history by creating the largest dataset ever assembled for a globular cluster. Our data consists of two main catalogs: An extensive MUSE effort of more than 100 individual pointings providing spectra for more than 300,000 stars and giving us metallicities and line-of-sight velocities, and a Hubble Space Telescope-based catalog containing around 1.4 million individual proper motion measurements and precise 7-band photometry.
+In the oMEGACat	project, led by	Nadine Neumayer	(MPIA) and Anil	Seth (Univ. of Utah), we aim to disentangle its dynamics and its formation history by creating the largest spectroscopic, photometric, and astrometric dataset ever assembled for a globular cluster. Our data consists of two main catalogs: An extensive MUSE effort of more than 100 individual pointings providing spectra for more than 300,000 stars and giving us metallicities and line-of-sight velocities, and a Hubble Space Telescope-based catalog containing around 1.4 million individual proper motion measurements and precise 7-band photometry.
 
 The combined catalogs are already enabling a wide range of science projects, including	studies	of the cluster's metallicity distribution, its multiple populations, its age-metallicity relation, and its central intermediate-mass black hole.
 
