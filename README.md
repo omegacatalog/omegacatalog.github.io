@@ -9,10 +9,20 @@ In the oMEGACat	project, led by	Nadine Neumayer	(MPIA) and Anil	Seth (Univ. of U
 The combined catalogs are already enabling a wide range of science projects, including	studies	of the cluster's metallicity distribution, its multiple populations, its age-metallicity relation, and its central intermediate-mass black hole.
 
 ## People
-### Project Leaders
+### Principal Investigators
 * Nadine Neumayer (Max Planck Institute for Astronomy, Heidelberg, Germany)
 * Anil Seth (University of Utah, Salt Lake City, USA)
-
+### Students and postdocs leading projects
+* Callie Clontz
+* Simona di Stefano
+* Maximilian Häberle
+* Ishaan Kothiyal
+* Selina Nitschai
+* Peter Smith
+* Stefano Souza
+* Zixian Wang
+### Collaborators
+...
 ## Data Access
 The main catalogs created in this project are publicly available:
 
