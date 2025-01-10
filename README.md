@@ -9,7 +9,7 @@ In the oMEGACat	project, led by	Nadine Neumayer	(MPIA) and Anil	Seth (Univ. of U
 The combined catalogs are already enabling a wide range of science projects, including	studies	of the cluster's metallicity distribution, its multiple populations, its age-metallicity relation, and its central intermediate-mass black hole.
 
 ## People
-###Project Leaders
+### Project Leaders
 * Nadine Neumayer (Max Planck Institute for Astronomy, Heidelberg, Germany)
 * Anil Seth (University of Utah, Salt Lake City, USA)
 
