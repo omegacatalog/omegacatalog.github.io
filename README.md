@@ -9,20 +9,27 @@ In the oMEGACat	project, led by	Nadine Neumayer	(MPIA) and Anil	Seth (Univ. of U
 The combined catalogs are already enabling a wide range of science projects, including	studies	of the cluster's metallicity distribution, its multiple populations, its age-metallicity relation, and its central intermediate-mass black hole.
 
 ## People
+
 ### Principal Investigators
+
 * Nadine Neumayer (Max Planck Institute for Astronomy, Heidelberg, Germany)
 * Anil Seth (University of Utah, Salt Lake City, USA)
+
 ### Students and postdocs leading projects
-* Callie Clontz
-* Simona di Stefano
-* Maximilian Häberle
-* Ishaan Kothiyal
-* Selina Nitschai
-* Peter Smith
-* Stefano Souza
-* Zixian Wang
-### Collaborators
-...
+
+* Callie Clontz (PhD Student, University of Utah, Salt Lake City, USA + Max Planck Institute for Astronomy, Heidelberg, Germany)
+* Simona di Stefano (PhD Student, INAF, Trieste, Italy)
+* Maximilian Häberle  (PhD Student, Max Planck Institute for Astronomy, Heidelberg, Germany)
+* Ishaan Kothiyal (Master Student,  Max Planck Institute for Astronomy, Heidelberg, Germany)
+* Selina Nitschai (graduated PhD Student, Max Planck Institute for Astronomy, Heidelberg, Germany)
+* Peter Smith (PhD Student, Max Planck Institute for Astronomy, Heidelberg, Germany)
+* Stefano Souza (Postdoc, Max Planck Institute for Astronomy, Heidelberg, Germany)
+* Zixian Wang (Postdoc, University of Utah, Salt Lake City, USA)
+
+In addition, a wide network of collaborators is actively contributing to the success of the project including:
+
+Mayte Alfaro-Cuello (Univ. Central de Chile), Jay Anderson (STScI), Andrea Bellini (STScI), Aaron Dotter (Dartmouth), Stefan Dreizler (Göttingen), Anja Feldmeier-Krause (Vienna), Nikolay Kacharov (AIP Potsdam), Sebastian Kamann (Liverpool), Marilyn Latour (Göttingen), Mattia Libralato (INAF Padova), Antonino Milone (Univ. Padova), Renuka Pechetti (Liverpool), Glenn van de Ven (Vienna), Karina Voggel (Strassburg)
+
 ## Data Access
 The main catalogs created in this project are publicly available:
 
