@@ -19,7 +19,7 @@ The combined catalogs are already enabling a wide range of science projects, inc
 
 * Callie Clontz (PhD Student, University of Utah, Salt Lake City, USA + Max Planck Institute for Astronomy, Heidelberg, Germany)
 * Simona di Stefano (PhD Student, INAF, Trieste, Italy)
-* Maximilian Häberle  (PhD Student, Max Planck Institute for Astronomy, Heidelberg, Germany)
+* Maximilian Häberle  (Postdoc, Max Planck Institute for Astronomy, Heidelberg, Germany)
 * Ishaan Kothiyal (Master Student,  Max Planck Institute for Astronomy, Heidelberg, Germany)
 * Selina Nitschai (graduated PhD Student, Max Planck Institute for Astronomy, Heidelberg, Germany)
 * Peter Smith (PhD Student, Max Planck Institute for Astronomy, Heidelberg, Germany)
@@ -49,7 +49,9 @@ Download from [Zenodo](https://zenodo.org/doi/10.5281/zenodo.11104045)
 * **oMEGACat. II. Photometry and Proper Motions for 1.4 Million Stars in Omega Centauri and Its Rotation in the Plane of the Sky** Häberle, Neumayer, Bellini et al. ApJ, 970, 192 (2024)  [ADS-Link](https://ui.adsabs.harvard.edu/abs/2024ApJ...970..192H/abstract)
 * **oMEGACat. III. Multiband Photometry and Metallicities Reveal Spatially Well-mixed Populations within &omega; Centauri's Half-light Radius** Nitschai, Neumayer, Häberle et al. ApJ, 970, 152 (2024)  [ADS-Link](https://ui.adsabs.harvard.edu/abs/2024ApJ...970..152N/abstract)
 * **oMEGACat. IV. Constraining the Ages of Omega Centauri Subgiant Branch Stars with HST and MUSE** Clontz, Seth, Dotter et al. ApJ, 977, 14 (2024)  [ADS-Link](https://ui.adsabs.harvard.edu/abs/2024ApJ...977...14C/abstract)
-* **oMEGACat V: Helium Enrichment in &omega; Centauri as a Function of Metallicity** Clontz, Seth, Wang et al.  (under review at ApJ)  [ADS-Link](https://ui.adsabs.harvard.edu/abs/2024arXiv241209783C/abstract)
+* **oMEGACat V: Helium Enrichment in &omega; Centauri as a Function of Metallicity** Clontz, Seth, Wang et al. ApJ, 984, 162 (2025) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2025ApJ...984..162C/abstract)
+* **oMEGACat. VI. Analysis of the Overall Kinematics of Omega Centauri in 3D: Velocity Dispersion, Kinematic Distance, Anisotropy, and Energy Equipartition** Häberle, Neumayer, Clontz et al. ApJ, 983, 95 (2025) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2025ApJ...984..162C/abstract)
+
 ![A three panel zoom into the center of Omega Centauri](./pictures/haeberle_2024_all_3_panels_en_150dpi.png)
 
-*Last Update: Jan 12th 2025 by M. Häberle* 
+*Last Update: May 19th, 2025 by M. Häberle* 
