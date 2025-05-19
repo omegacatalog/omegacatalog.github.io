@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: pages-themes/leap-day@v0.2.0
 title: oMEGACat Survey
 description: The oMEGACat survey is a Hubble Space Telescope and VLT/MUSE survey of the central regions of omega Centauri, the Milky Way's most massive cluster.
 github:
