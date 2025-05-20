@@ -41,7 +41,7 @@ Download from [IOP](https://iopscience.iop.org/article/10.3847/1538-4357/acf5db#
 **HST Astro-Photometric Catalog:**
 Download from [Zenodo](https://zenodo.org/doi/10.5281/zenodo.11104045)
 
-**Kinematic profiles and maps**
+**Kinematic profiles and maps:**
 Download from [Zenodo](https://zenodo.org/records/14978551)
 
 ## Publications
