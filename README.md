@@ -8,6 +8,8 @@ In the oMEGACat	project, led by	Nadine Neumayer	(MPIA) and Anil	Seth (Univ. of U
 
 The combined catalogs are already enabling a wide range of science projects, including	studies	of the cluster's metallicity distribution, its multiple populations, its age-metallicity relation, and its central intermediate-mass black hole.
 
+![A three panel zoom into the center of Omega Centauri](./pictures/haeberle_2024_all_3_panels_en_150dpi.png)
+
 ## People
 
 ### Principal Investigators
@@ -34,12 +36,13 @@ Mayte Alfaro-Cuello (Univ. Central de Chile), Jay Anderson (STScI), Andrea Belli
 The main catalogs created in this project are publicly available:
 
 **MUSE Spectroscopic Catalog:**
-
 Download from [IOP](https://iopscience.iop.org/article/10.3847/1538-4357/acf5db#apjacf5dbt3)
 
 **HST Astro-Photometric Catalog:**
-
 Download from [Zenodo](https://zenodo.org/doi/10.5281/zenodo.11104045)
+
+**Kinematic profiles and maps**
+Download from [Zenodo](https://zenodo.org/records/14978551)
 
 ## Publications
 
@@ -52,6 +55,5 @@ Download from [Zenodo](https://zenodo.org/doi/10.5281/zenodo.11104045)
 * **oMEGACat V: Helium Enrichment in &omega; Centauri as a Function of Metallicity** Clontz, Seth, Wang et al. ApJ, 984, 162 (2025) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2025ApJ...984..162C/abstract)
 * **oMEGACat. VI. Analysis of the Overall Kinematics of Omega Centauri in 3D: Velocity Dispersion, Kinematic Distance, Anisotropy, and Energy Equipartition** Häberle, Neumayer, Clontz et al. ApJ, 983, 95 (2025) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2025ApJ...984..162C/abstract)
 
-![A three panel zoom into the center of Omega Centauri](./pictures/haeberle_2024_all_3_panels_en_150dpi.png)
 
-*Last Update: May 19th, 2025 by M. Häberle* 
+*Last Update: May 20th, 2025 by M. Häberle* 
