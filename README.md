@@ -21,7 +21,7 @@ The combined catalogs are already enabling a wide range of science projects, inc
 
 * Callie Clontz (PhD Student, University of Utah, Salt Lake City, USA + Max Planck Institute for Astronomy, Heidelberg, Germany)
 * Simona di Stefano (PhD Student, INAF, Trieste, Italy)
-* Maximilian Häberle  (Postdoc, Max Planck Institute for Astronomy, Heidelberg, Germany)
+* Maximilian Häberle  (Postdoc, European Southern Observatory, Garching near Munich, Germany)
 * Ishaan Kothiyal (Master Student,  Max Planck Institute for Astronomy, Heidelberg, Germany)
 * Selina Nitschai (graduated PhD Student, Max Planck Institute for Astronomy, Heidelberg, Germany)
 * Peter Smith (PhD Student, Max Planck Institute for Astronomy, Heidelberg, Germany)
@@ -56,4 +56,4 @@ Download from [Zenodo](https://zenodo.org/records/14978551)
 * **oMEGACat. VI. Analysis of the Overall Kinematics of Omega Centauri in 3D: Velocity Dispersion, Kinematic Distance, Anisotropy, and Energy Equipartition** Häberle, Neumayer, Clontz et al. ApJ, 983, 95 (2025) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2025ApJ...984..162C/abstract)
 
 
-*Last Update: May 20th, 2025 by M. Häberle* 
+*Last Update: September 2nd, 2025 by M. Häberle* 
