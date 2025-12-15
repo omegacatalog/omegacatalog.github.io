@@ -19,7 +19,7 @@ The combined catalogs are already enabling a wide range of science projects, inc
 
 ### Students and postdocs leading projects
 
-* Callie Clontz (PhD Student, University of Utah, Salt Lake City, USA + Max Planck Institute for Astronomy, Heidelberg, Germany)
+* Callie Clontz (Postdoc, Max Planck Institute for Astronomy, Heidelberg, Germany)
 * Simona di Stefano (PhD Student, INAF, Trieste, Italy)
 * Maximilian Häberle  (Postdoc, European Southern Observatory, Garching near Munich, Germany)
 * Ishaan Kothiyal (Master Student,  Max Planck Institute for Astronomy, Heidelberg, Germany)
