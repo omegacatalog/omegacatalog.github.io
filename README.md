@@ -53,10 +53,10 @@ Download from [Zenodo](https://zenodo.org/records/14978551)
 * **oMEGACat. III. Multiband Photometry and Metallicities Reveal Spatially Well-mixed Populations within &omega; Centauri's Half-light Radius** Nitschai, Neumayer, Häberle et al. ApJ, 970, 152 (2024)  [ADS-Link](https://ui.adsabs.harvard.edu/abs/2024ApJ...970..152N/abstract)
 * **oMEGACat. IV. Constraining the Ages of Omega Centauri Subgiant Branch Stars with HST and MUSE** Clontz, Seth, Dotter et al. ApJ, 977, 14 (2024)  [ADS-Link](https://ui.adsabs.harvard.edu/abs/2024ApJ...977...14C/abstract)
 * **oMEGACat V: Helium Enrichment in &omega; Centauri as a Function of Metallicity** Clontz, Seth, Wang et al. ApJ, 984, 162 (2025) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2025ApJ...984..162C/abstract)
-* **oMEGACat. VI. Analysis of the Overall Kinematics of Omega Centauri in 3D: Velocity Dispersion, Kinematic Distance, Anisotropy, and Energy Equipartition** Häberle, Neumayer, Clontz et al. ApJ, 983, 95 (2025) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2025ApJ...984..162C/abstract)
+* **oMEGACat. VI. Analysis of the Overall Kinematics of Omega Centauri in 3D: Velocity Dispersion, Kinematic Distance, Anisotropy, and Energy Equipartition** Häberle, Neumayer, Clontz et al. ApJ, 983, 95 (2025) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2025ApJ...983...95H/abstract)
 * **oMEGACat. VII. Tracing Interstellar and Intracluster Medium of ω Centauri Using Sodium Absorptions** Wang, Seth, Latour et al. ApJ, 994, 143 (2025) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2025ApJ...994..143W/abstract)
-* **oMEGACat. VIII. A Subpopulation Census of ω Centauri** Clontz, Seth, Wang et al. (*submitted to ApJ*) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2025arXiv251026341C/abstract)
+* **oMEGACat. VIII. A Subpopulation Census of ω Centauri** Clontz, Seth, Wang et al. (*accepted for publication in ApJ*) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2025arXiv251026341C/abstract)
 
 
 
-*Last Update: December 15th, 2025 by M. Häberle* 
+*Last Update: January 15th, 2026 by M. Häberle* 
