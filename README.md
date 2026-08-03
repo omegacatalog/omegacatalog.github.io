@@ -57,7 +57,7 @@ Download from [Zenodo](https://zenodo.org/records/14978551)
 * **oMEGACat. VII. Tracing Interstellar and Intracluster Medium of ω Centauri Using Sodium Absorptions** Wang, Seth, Latour et al. ApJ, 994, 143 (2025) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2025ApJ...994..143W/abstract)
 * **oMEGACat. VIII. A Subpopulation Census of ω Centauri** Clontz, Seth, Wang et al. ApJ, 998, 177 (2026) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2026ApJ...998..177C/abstract)
 * **oMEGACat. oMEGACat. IX. Chemical Tagging of Omega Centauri Populations with Machine-Learning-Inferred Abundances from the MUSE Spectrograph**  Wang, Seth, Clontz et al. (*accepted for publication in ApJ*) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2026arXiv260301041W/abstract)
-* **oMEGACat. X. Shedding light on the disrupted dwarf galaxy of Omega Centauri** Souza, Neumayer, Seth et al. (*accepted for publication in ApJ*) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2026arXiv260323589S/abstract
+* **oMEGACat. X. Shedding light on the disrupted dwarf galaxy of Omega Centauri** Souza, Neumayer, Seth et al. (*accepted for publication in ApJ*) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2026arXiv260323589S/abstract)
 
 
 
