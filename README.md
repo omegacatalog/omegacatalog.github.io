@@ -55,8 +55,10 @@ Download from [Zenodo](https://zenodo.org/records/14978551)
 * **oMEGACat V: Helium Enrichment in &omega; Centauri as a Function of Metallicity** Clontz, Seth, Wang et al. ApJ, 984, 162 (2025) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2025ApJ...984..162C/abstract)
 * **oMEGACat. VI. Analysis of the Overall Kinematics of Omega Centauri in 3D: Velocity Dispersion, Kinematic Distance, Anisotropy, and Energy Equipartition** Häberle, Neumayer, Clontz et al. ApJ, 983, 95 (2025) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2025ApJ...983...95H/abstract)
 * **oMEGACat. VII. Tracing Interstellar and Intracluster Medium of ω Centauri Using Sodium Absorptions** Wang, Seth, Latour et al. ApJ, 994, 143 (2025) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2025ApJ...994..143W/abstract)
-* **oMEGACat. VIII. A Subpopulation Census of ω Centauri** Clontz, Seth, Wang et al. (*accepted for publication in ApJ*) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2025arXiv251026341C/abstract)
+* **oMEGACat. VIII. A Subpopulation Census of ω Centauri** Clontz, Seth, Wang et al. ApJ, 998, 177 (2026) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2026ApJ...998..177C/abstract)
+* **oMEGACat. oMEGACat. IX. Chemical Tagging of Omega Centauri Populations with Machine-Learning-Inferred Abundances from the MUSE Spectrograph**  Wang, Seth, Clontz et al. (*accepted for publication in ApJ*) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2026arXiv260301041W/abstract)
+* **oMEGACat. X. Shedding light on the disrupted dwarf galaxy of Omega Centauri** Souza, Neumayer, Seth et al. (*accepted for publication in ApJ*) [ADS-Link](https://ui.adsabs.harvard.edu/abs/2026arXiv260323589S/abstract
 
 
 
-*Last Update: January 15th, 2026 by M. Häberle* 
+*Last Update: August 3rd, 2026 by M. Häberle* 
